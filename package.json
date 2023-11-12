@@ -1,0 +1,27 @@
+{
+  "name": "typescript-homework-module-2",
+  "version": "1.0.0",
+  "description": "- npm install -g typescript - tsc --init - tsc - tsc -w",
+  "dependencies": {
+    "typescript": "^5.1.5"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorSvertoka/goit-typescript-hw-02.git"
+  },
+  "homepage": "https://github.com/ViktorSvertoka/goit-typescript-hw-02#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViktorSvertoka/goit-typescript-hw-02/issues"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.3.3"
+  }
+}
